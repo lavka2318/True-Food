@@ -1,7 +1,12 @@
 *{
     font-family: 'Roboto', sans-serif;
-    color: #662418;
+    color: bisque;
 }
+
+input {
+    color: black;
+}
+
 p{
     margin: 0;
 }
@@ -25,7 +30,7 @@ main{
 
 .header{
     text-align: center;
-    background-color: #E1E1E1;
+    background-color: rgb(55,0,5);
 }
 
 .page-title{
