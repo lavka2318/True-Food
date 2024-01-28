@@ -136,7 +136,7 @@ main{
 
 }
 .table-order, tr, td, th {
-    border: 2px black solid;
+    border: 2px bisque solid;
 }
 
 .td-text{
